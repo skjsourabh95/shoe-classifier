@@ -1,0 +1,3 @@
+https://www.quickanddirtytips.com/sites/default/files/images/15321/to-boot.jpg
+D:\topcoder\EdgeNet - Shoe Image Classifier\dataset\train\boots\2-bootsshoe.png
+D:\topcoder\EdgeNet - Shoe Image Classifier\dataset\train\sandals\sandal-122.jpg

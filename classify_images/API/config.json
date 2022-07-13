@@ -1,0 +1,4 @@
+{
+    "model_path" : "../../trained_model_imagenet",
+    "classes" : ["boots","flip_flops","loafers","sandals","sneakers","soccer_shoes","no_shoe"]
+}
